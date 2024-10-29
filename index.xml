@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>uletay</repo>
-  <version>v1.0.3</version>
+  <version>v1.0.4</version>
   <next number="1" owner="stolbitsa" repo="inca-roads-1"/>
   <readme>
     <ru>f49ee633aa5fe3e9cddeb156e5087d138605228db306be348e4ff319fab5e9a6</ru>
@@ -75,16 +75,14 @@
     <bpm>80</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>4</tonalities>
-    <video name="11-uletay-2.mp4" size="1371122" type="video/mp4" volume="1">07e71b0da010aeae0c51d9761ed7daa848603a8ce0809eca43451ba0e9bf7929</video>
+    <video name="11-uletay-5.mp4" size="1756228" type="video/mp4" volume="1">e97e11dbc92b060760112542ca150c22187c1374d8618e0015eb868bd39fa132</video>
     <notes>
-      <note number="1" values="78" ticks="40" durationTicks="25" ppq="96" velocity="0.441"/>
-      <note number="2" values="188" ticks="63" durationTicks="23" ppq="96" velocity="0.434"/>
-      <note number="3" values="68" ticks="87" durationTicks="48" ppq="96" velocity="0.491"/>
-      <note number="4" values="58" ticks="136" durationTicks="23" ppq="96" velocity="0.449"/>
-      <note number="5" values="48" ticks="160" durationTicks="23" ppq="96" velocity="0.451"/>
-      <note number="6" values="58" ticks="183" durationTicks="24" ppq="96" velocity="0.471"/>
-      <note number="7" values="68" ticks="208" durationTicks="22" ppq="96" velocity="0.626"/>
-      <note number="8" values="78" ticks="232" durationTicks="95" ppq="96" velocity="0.626"/>
+      <note number="1" values="28" ticks="57" durationTicks="48" ppq="96" velocity="0.441"/>
+      <note number="2" values="38" ticks="105" durationTicks="48" ppq="96" velocity="0.434"/>
+      <note number="3" values="58" ticks="153" durationTicks="48" ppq="96" velocity="0.491"/>
+      <note number="4" values="48" ticks="203" durationTicks="34" ppq="96" velocity="0.449"/>
+      <note number="5" values="48" ticks="251" durationTicks="45" ppq="96" velocity="0.451"/>
+      <note number="6" values="188" ticks="299" durationTicks="140" ppq="96" velocity="0.471"/>
     </notes>
   </exercise>
   <exercise number="6">
@@ -102,6 +100,7 @@
       <note number="6" values="58" ticks="183" durationTicks="24" ppq="96" velocity="0.471"/>
       <note number="7" values="68" ticks="208" durationTicks="22" ppq="96" velocity="0.626"/>
       <note number="8" values="78" ticks="232" durationTicks="95" ppq="96" velocity="0.626"/>
+      <note number="9" values="78" ticks="768" durationTicks="95" ppq="96" velocity="0.626"/>
     </notes>
   </exercise>
 </level>
