@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>uletay</repo>
-  <version>v1.0.4</version>
+  <version>v1.0.5</version>
   <next number="1" owner="stolbitsa" repo="inca-roads-1"/>
   <readme>
     <ru>f49ee633aa5fe3e9cddeb156e5087d138605228db306be348e4ff319fab5e9a6</ru>
@@ -86,6 +86,23 @@
     </notes>
   </exercise>
   <exercise number="6">
+    <scale>minor</scale>
+    <bpm>80</bpm>
+    <lowestNote>18</lowestNote>
+    <tonalities>4</tonalities>
+    <video name="11-uletay-6.mp4" size="1984996" type="video/mp4" volume="1">3b30f08e5db5a8ffbcd6e630df91652e20c5ebad5a562446974e1cf21603bcfa</video>
+    <notes>
+      <note number="1" values="78" ticks="76" durationTicks="25" ppq="96" velocity="0.441"/>
+      <note number="2" values="188" ticks="101" durationTicks="23" ppq="96" velocity="0.434"/>
+      <note number="3" values="68" ticks="124" durationTicks="48" ppq="96" velocity="0.491"/>
+      <note number="4" values="58" ticks="171" durationTicks="23" ppq="96" velocity="0.449"/>
+      <note number="5" values="48" ticks="196" durationTicks="23" ppq="96" velocity="0.451"/>
+      <note number="6" values="58" ticks="220" durationTicks="24" ppq="96" velocity="0.471"/>
+      <note number="7" values="68" ticks="244" durationTicks="22" ppq="96" velocity="0.461"/>
+      <note number="8" values="78" ticks="268" durationTicks="95" ppq="96" velocity="0.476"/>
+    </notes>
+  </exercise>
+  <exercise number="7">
     <scale>minor</scale>
     <bpm>80</bpm>
     <lowestNote>18</lowestNote>
